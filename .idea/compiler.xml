@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fuqun_common_web" />
+        <module name="fuqun_interface" />
+        <module name="fuqun_common_service" />
+        <module name="fuqun_service_goods" />
+        <module name="fuqun_pojo" />
+        <module name="fuqun_common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fuqun-pojo" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
